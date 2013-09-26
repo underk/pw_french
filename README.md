@@ -7,19 +7,19 @@ Lors de nouvelles versions, nous allons créer de nouveaux tags permettant de re
 
 Afin de donner une meilleure expérience à l'utilisateur, on va utiliser des normes.
 
+###### Règles de bases:
+- Lorsque vous n'êtes pas certain du contexte: laissez-le vide ou si vous êtes à l'aise avec le code, allez voir le code afin de comprendre le contexte.
+- Quand le mot est pareil en français et en anglais, laissez le champ vide.
+- Et lorsque vous n'êtes pas certain comment traduire une phrase, vous pouvez toujours créer une "issue" afin d'en discuter.
+- Évidemment, lorsqu'il y a des fautes d'orthographe, ne pas hésiter à corriger. Personne n'est parfait ;).
+
 ###### À discuter..
-- Ne pas utiliser les mots Upload/Download, mais plutôt téléversement/télécharger. - ceci est encore à discuter, upload/download est maintenant dans plusieurs dictionnaires et est reconnu. Le but est de trouver quelque chose de facile à comprendre même pour les débutants.
+- Ne pas utiliser les mots Upload/Download, mais plutôt téléversement/télécharger. - discussion: https://github.com/underk/pw_french/issues/1
 - L'utilisation du mot plugin est autorisée pour le moment, par exemple "un plugin de TinyMCE". - ceci est à discuter afin de voir s'il y a de meilleures alternatives.
 - L'utilisation de mots très connus comme "URL" est permise, mais lorsque ceci s'adresse directement à un utilisateur peu avancé, tenter d'utiliser un mot français si possible(lien?).
 - La traduction de template sera gabarit.
 
-- Lorsque vous n'êtes pas certain du contexte: laissez-le vide ou si vous êtes à l'aise avec le code, allez voir le code afin de comprendre le contexte.
-- Quand le mot est pareil en français et en anglais, laissez-le vide.
-
-
 Ces normes sont modifiables, vous pouvez toujours créer une "issue" sur github afin de créer une discussion sur les changements que vous proposez. Le but est de créer la meilleure expérience possible.
-
-Lorsqu'il y a des fautes d'orthographe, ne pas hésiter à corriger, personne n'est parfait ;).
 
 ### Pour les traducteurs - priorités
 
