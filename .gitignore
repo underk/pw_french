@@ -1,2 +1,4 @@
-# ignore le fichier pour mon template admin perso
+# ignore le fichier pour le template admin(qui peut changer selon le site, donc ne doit pas l'avoir dans le répertoire)
 site--templates-admin--default-php.json
+
+# Ajouter un ignore pour tout modules perso, etc..
