@@ -14,7 +14,7 @@ Afin de donner une meilleure expérience à l'utilisateur, on va utiliser des no
 - Évidemment, lorsqu'il y a des fautes d'orthographe, ne pas hésiter à corriger. Personne n'est parfait ;).
 
 ###### À discuter..
-- Ne pas utiliser les mots Upload/Download, mais plutôt téléversement/télécharger. - discussion: https://github.com/underk/pw_french/issues/1
+- Utilisation de upload/download permise, utiliser "déposer/envoyer un fichier" lorsque possible. - discussion: https://github.com/underk/pw_french/issues/1
 - L'utilisation du mot plugin est autorisée pour le moment, par exemple "un plugin de TinyMCE". - ceci est à discuter afin de voir s'il y a de meilleures alternatives.
 - L'utilisation de mots très connus comme "URL" est permise, mais lorsque ceci s'adresse directement à un utilisateur peu avancé, tenter d'utiliser un mot français si possible(lien?).
 - La traduction de template sera gabarit.
