@@ -1,1 +1,54 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldPageAutocomplete\/InputfieldPageAutocomplete.module","textdomain":"wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module","translations":[]}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageAutocomplete\/InputfieldPageAutocomplete.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpageautocomplete--inputfieldpageautocomplete-module",
+    "translations": {
+        "0f6969d7052da9261e31ddb6e88c136e": {
+            "text": "enlever"
+        },
+        "111ce57a33643818f896c8ef5b78f923": {
+            "text": "Appuyez sur entr\u00e9e pour ajouter en tant que nouvel \u00e9l\u00e9ment"
+        },
+        "a2324d16f834e2138b021bb90f1823dc": {
+            "text": "Options avanc\u00e9es de compl\u00e9tion automatique"
+        },
+        "5bd9a3b9fd04ef31e99e96b10ce5ac5f": {
+            "text": "Op\u00e9rateur de recherche de compl\u00e9tion automatique"
+        },
+        "a711451766d79a07ee817f88cb63ca56": {
+            "text": "L'op\u00e9rateur de recherche utilis\u00e9 par l'API pendant l'association des correspondances de compl\u00e9tion automatique."
+        },
+        "ddc1a98a2c8309eab3292b5fda7e0506": {
+            "text": "Si vous \u00eates incertain de la valeur \u00e0 utiliser, laisser \u00e0 la valeur par d\u00e9faut : *="
+        },
+        "6774b148e1f242760726e4c88d08931a": {
+            "text": "Contient une phrase ou un mot partiels (lors de l'utilisation d'un index de texte complet - Recommand\u00e9"
+        },
+        "10723caf0a8012a762b741f821060ea9": {
+            "text": "Contient une phrase ou un mot partiels (utilise LIKE)"
+        },
+        "5aebeca1891bcef0142167dda686b4a7": {
+            "text": "Contient tout les mots [en entier], peu importe l'ordre"
+        },
+        "0626526d691a7bf48a099a2330fde59f": {
+            "text": "Commence avec le mot\/la phrase"
+        },
+        "a606a68c3a2a799b75998b7be8d48aea": {
+            "text": "Se termine avec le mot\/la phrase"
+        },
+        "0a06fd6fea29497256d43910fde22cd3": {
+            "text": "\u00c9gal \u00e0 [exact]"
+        },
+        "b956d301c10771357a356a80d9f0d3a5": {
+            "text": "Champs \u00e0 interroger pour la compl\u00e9tion automatique"
+        },
+        "0c458f5b668cdb153d43ffa89c2f2393": {
+            "text": "Entrez les noms des champs que vous d\u00e9sirez interroger pendant la requ\u00eate de correspondance pour la compl\u00e9tion automatique. G\u00e9n\u00e9ralement, ce ne serait que le champs titre, mais vous pouvez en ajouter d'autres en les s\u00e9parant par un espace. Notez que cela est diff\u00e9rent du \u00ab\u00a0Champs \u00e9tiquette \u00bb (ci-dessus). Vous ne sp\u00e9cifiez ici que les champs qui seront recherch\u00e9s, pas ceux qui seront affich\u00e9s."
+        },
+        "8fdfe6e949b4c07d26317e3e2f99a14d": {
+            "text": "Les champs texte index\u00e9s incluent :"
+        },
+        "f2f3cd9d4e91a577333b66f5818b9d3b": {
+            "text": "S\u00e9lection de page multiple utilisant la compl\u00e9tion automatique et avec des fonctions de triage. Destin\u00e9 \u00e0 l'usage en tant que champs d'entr\u00e9e pour les champs de r\u00e9f\u00e9rence de Page."
+        }
+    }
+}

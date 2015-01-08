@@ -1,1 +1,36 @@
-{"file":"wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php","textdomain":"wire--modules--fieldtype--fieldtypecomments--commentform-php","translations":[]}
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/CommentForm.php",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--commentform-php",
+    "translations": {
+        "6f207f8b5dfe1eebac63467930df5189": {
+            "text": "h3"
+        },
+        "55db28530640e9fb41ebf71ea8afce72": {
+            "text": "Publier le commentaire"
+        },
+        "a3676fa92ee7acc9486a220da4580c7e": {
+            "text": "Merci, votre commentaire a \u00e9t\u00e9 enregistr\u00e9."
+        },
+        "5443970b690d94d32a481cac5cf31cb6": {
+            "text": "Votre commentaire a \u00e9t\u00e9 envoy\u00e9 pour mod\u00e9ration et sera affich\u00e9 lorsqu'approuv\u00e9."
+        },
+        "af54d31f765138998bf8d2903d4095ce": {
+            "text": "Votre commentaire n'a pas \u00e9t\u00e9 enregistr\u00e9 d\u00fb \u00e0 une ou plusieurs erreurs. Veuillez v\u00e9rifiez que vous avez remplis tous les champs avant de le r\u00e9envoyer."
+        },
+        "614cffa523202658a898e34a5d94d05e": {
+            "text": "Votre nom"
+        },
+        "cd5b60538fc5fdd7a7280d67e4a12089": {
+            "text": "Votre courriel"
+        },
+        "f359c2373cfa104cd9be66f79047deb5": {
+            "text": "L'URL de votre site"
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commentaires"
+        },
+        "a4d3b161ce1309df1c4e25df28694b7b": {
+            "text": "Envoyer"
+        }
+    }
+}

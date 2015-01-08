@@ -1,0 +1,132 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "017e8b29849843b6daa2501aad99f7c1": {
+            "text": "En attente d'approbation"
+        },
+        "6f8063417ab31f38d864c28302f3de2f": {
+            "text": "Approuv\u00e9"
+        },
+        "19af9433f96a08338dbcf1ea82186f7c": {
+            "text": "SPAM - sera supprim\u00e9 automatiquement apr\u00e8s %d jours"
+        },
+        "4a97712de239878854839560e1765f5a": {
+            "text": "Commentaire \u00e0 : %s"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Aucune - Commentaires publi\u00e9s imm\u00e9diatement"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Tous - Tous les commentaires doivent \u00eatre approuver par un utilisateur avec les droits de modifications"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Seulement nouveaux - Seulement les commentaires des utilisateurs n'ayant pas de commentaires approuv\u00e9s requi\u00e8rent approbation"
+        },
+        "11b3f4cb51868835eff93632baf73f0b": {
+            "text": "Mod\u00e9ration des commentaires"
+        },
+        "2e5d62a652e3bfee772867720b3b000e": {
+            "text": "Courriel de notification"
+        },
+        "f1f5c03105f32ee4f4eb3004e2fb49be": {
+            "text": "Adresse courriel \u00e0 notifier lorsqu'un nouveau commentaire est envoy\u00e9. S\u00e9parez les adresses multiples \u00e0 l'aide de virgules"
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "Envoyer des notifications pour le spam ?"
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Lorsque coch\u00e9, ProcessWire vous enverra une notification par courriel m\u00eame si le message est identifi\u00e9 comme du spam."
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Trier du plus r\u00e9cent au plus ancien ?"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Par d\u00e9faut, les commentaires sont tri\u00e9s en ordre chronologique (plus ancien au plus r\u00e9cent). Pour inverser ce comportement, cochez cette case."
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Afficher le champs site web dans le formulaire de commentaires ?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Lorsque coch\u00e9, les soumissions de commentaire incluront aussi un champs site web."
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Rediriger apr\u00e8s l'envoi d'un commentaire ?"
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Lorsque coch\u00e9, ProcessWire enverra une redirection apr\u00e8s que le commentaire soit envoy\u00e9 pour \u00e9viter les envois doubles. Recommand\u00e9."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Enregistrement silencieux ?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Lorsque coch\u00e9, l'heure de modification de la page ainsi que l'utilisateur ne seront pas mis \u00e0 jours lorsqu'un commentaire est ajout\u00e9."
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Utiliser le service de filtrage de spam Akismet ?"
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Ce service identifiera automatiquement la majorit\u00e9 du spam. Avant de l'utiliser, veuillez vous assurer que vous avez entr\u00e9 votre cl\u00e9 d'API Akismet dans Modules > Filtre de commentaires : Akismet."
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "D\u00e9sactiv\u00e9"
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G : Convient \u00e0 l'affichage sur tous les site pour tout type d'audience."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG : Peut contenir des gestes obsc\u00e8nes, des individus habill\u00e9s de fa\u00e7on provocative, des injures et de la violence mineures."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R : Peut contenir de grossi\u00e8ret\u00e9s crues, de la violence intense, de la nudit\u00e9 ou l'usage de drogues dures."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X : Peut contenir des images sexuelles explicites ou de la violence extr\u00eamement d\u00e9rengeante."
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Utiliser Gravatar ?"
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Ce service procure une image d'avatar pour chaque commentaire (unique \u00e0 l'adresse courriel). Pour l'activer, s\u00e9lectionnez le classement Gravatar maximal. Ceux-ci sont similaires aux classements pour films, o\u00f9 G est orient\u00e9 famille et X ne l'est pas."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Classement des descriptions fournies par [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/)."
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Nombre de jours apr\u00e8s lesquels effacer le spam."
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Apr\u00e8s le nombre de jours indiqu\u00e9s, le spam sera automatiquement supprim\u00e9."
+        },
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Commentaires"
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Champs qui emmagasine les commentaires des utilisateur pour une page unique."
+        },
+        "bbdc0889960bd1af9368ef6a4ba299f2": {
+            "text": "ProcessWire"
+        },
+        "61d8be701930d3db7ca0e8d32d041ab6": {
+            "text": "processwire"
+        },
+        "e0c0bcd1370c684469277f8066e3c64f": {
+            "text": "Page"
+        },
+        "957cba65c7639be540b3bce16e2c8e57": {
+            "text": "De"
+        },
+        "d856205677eeb676b9b04c173a231c6b": {
+            "text": "Courriel"
+        },
+        "4df6dabe367988d938bbf565bbcdbe43": {
+            "text": "Site web"
+        },
+        "5be3f30f5db8303d4baac9920be07c45": {
+            "text": "Status"
+        },
+        "15ede22296b59c623fa73c28c6dbe629": {
+            "text": "Texte"
+        }
+    }
+}

@@ -1,1 +1,45 @@
-{"file":"wire\/modules\/Fieldtype\/FieldtypePage.module","textdomain":"wire--modules--fieldtype--fieldtypepage-module","translations":[]}
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypePage.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypepage-module",
+    "translations": {
+        "d1d7182c9905811b10bcd1f5bdcb9eda": {
+            "text": "D\u00e9r\u00e9f\u00e9renc\u00e9 dans l'API en tant que"
+        },
+        "e28f86b62065207ceeb0b5057eb98537": {
+            "text": "Si votre champs contient plusieurs pages, optez pour la premi\u00e8re option (PageArray). Si votre champs n'a besoin que de contenir une seule page, optez plut\u00f4t pour une des options de Page unique (en cas d'incertitude, s\u00e9lectionnez la derni\u00e8re option)"
+        },
+        "7b438db8547ac1c9ab6c7ba6cb1532db": {
+            "text": "Pages multiples (PageArray)"
+        },
+        "a24fcc695edbc57c60c768a732d2f30d": {
+            "text": "Page unique (Page) ou bool\u00e9en faux en absence de s\u00e9lection"
+        },
+        "94a53712b9a34f922a776fc5aa68d31f": {
+            "text": "Page unique (Page) ou page vide (NullPage) en absence de s\u00e9lection"
+        },
+        "7d5f7f76b51ac880e91da28dbc52df35": {
+            "text": "Permettre les pages non publi\u00e9es ?"
+        },
+        "58b4f6dae2009a3d22a395a94de85360": {
+            "text": "Lorsque coch\u00e9, les pages non publi\u00e9es sont permises comme valeur de champs. Les pages non publi\u00e9es n'apparaitront pas dans le front-end, sauf celles avec un acc\u00e8s en \u00e9dition."
+        },
+        "393e717c8215abdbe581b21180abfa2b": {
+            "text": "Impossible de trouver la page"
+        },
+        "34a56e6d474c258bb9f4553aae0c7b81": {
+            "text": "Impossible de trouver le mod\u00e8le"
+        },
+        "2d6565614947b2a6daba1a06515124da": {
+            "text": "Chercher et nettoyer les r\u00e9f\u00e9rences aux pages orphelines"
+        },
+        "f7e35a334f1501cc0365458563f90cf5": {
+            "text": "Ceci corrige un probl\u00e8me dans les versions plus anciennes de ProcessWire qui pouvait laisser des r\u00e9f\u00e9rences \u00e0 des pages orphelines pour les pages supprim\u00e9es. Si vous obtenez des r\u00e9sultats impr\u00e9cis des op\u00e9rations de recherche de page (en particulier avec des s\u00e9lecteurs utilisant pageref.count), il est possible que vous vouliez utiliser ceci."
+        },
+        "35a326c72a6584f3c7d70109b5cd45f1": {
+            "text": "Attention : Pour \u00eatre prudent vous devriez faire une copie de sauvegarde de votre base de donn\u00e9es avant de lancer ceci."
+        },
+        "081c14de091c8761b82f930fd59c8f16": {
+            "text": "Cherche et nettoie\u2026"
+        }
+    }
+}

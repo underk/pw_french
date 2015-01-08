@@ -1,1 +1,36 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldSelect.module","textdomain":"wire--modules--inputfield--inputfieldselect-module","translations":[]}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelect.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselect-module",
+    "translations": {
+        "6b66a61fa66288a9a7ad6474d2e686ec": {
+            "text": "Valeur par d\u00e9faut"
+        },
+        "c37baf4e64db68f6887058399a37ad60": {
+            "text": "Pour avoir un ou plusieurs valeurs pr\u00e9s\u00e9lectionn\u00e9es, entrez celles-ci (une par ligne) ci-bas. Pour les s\u00e9lections de pages, utilisez les num\u00e9ros d'ID des pages."
+        },
+        "d48cd2cb0f5c1d209800b28e019eb574": {
+            "text": "Cette(s) valeurs(s) optionnelles par d\u00e9faut sont disponibles parce que vous avez coch\u00e9 la case \"requis\" ci-haut."
+        },
+        "dae8ace18bdcbcc6ae5aece263e14fe8": {
+            "text": "Options"
+        },
+        "3a4accfa68ff7300f67ad7d89e07770e": {
+            "text": "Entrez les options qui peuvent \u00eatre s\u00e9lectionn\u00e9es, une par ligne."
+        },
+        "6cdf2b7c6a202509ddad22ed4e6d1c3d": {
+            "text": "Pour pr\u00e9c\u00e9der votre liste d'une option vide, entrez simplement le signe \"=\" comme premi\u00e8re option."
+        },
+        "378f6008c3dc6eb2be984683df372592": {
+            "text": "Pour rendre une option s\u00e9lectionn\u00e9e, pr\u00e9c\u00e9dez la par le signe plus. Exemple : +Mon option"
+        },
+        "75d2fefda1196dd14f506b0273ebed38": {
+            "text": "Pour garder s\u00e9par\u00e9es la valeur et l'\u00e9tiquette, s\u00e9parez-les par le signe \u00e9gal. Exemple : valeur=Mon option"
+        },
+        "663f303f44a9a25504e3c434fc37b34d": {
+            "text": "Pour cr\u00e9er un optgroup (groupe d'option), ins\u00e9rer une indentation de dans le groupe de 3 espaces ou plus."
+        },
+        "eed6fbc4de3755e7189b1461a4844bea": {
+            "text": "S\u00e9lection d'une valeur unique \u00e0 l'aide d'un menu d\u00e9roulant"
+        }
+    }
+}

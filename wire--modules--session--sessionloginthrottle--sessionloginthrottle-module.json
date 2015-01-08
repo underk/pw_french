@@ -1,1 +1,30 @@
-{"file":"wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module","textdomain":"wire--modules--session--sessionloginthrottle--sessionloginthrottle-module","translations":[]}
+{
+    "file": "wire\/modules\/Session\/SessionLoginThrottle\/SessionLoginThrottle.module",
+    "textdomain": "wire--modules--session--sessionloginthrottle--sessionloginthrottle-module",
+    "translations": {
+        "87f1eff9c1a8afd8f0ecee1583f88ab2": {
+            "text": "Veuillez attendre au moins %d secondes avant de tenter une nouvelle connexion."
+        },
+        "2a5391490b60fb767804efa36b94d79c": {
+            "text": "Limiter les tentatives par adresses IP ?"
+        },
+        "8d6451e8c8b2f9d07c6a9701e270025a": {
+            "text": "Par d\u00e9faut, la limitation des tentatives ne sera faite qu'avec le nom d'utilisateur. Si vous cochez cette case, la limitation sera aussi effectu\u00e9e \u00e0 l'aide de l'adresse IP. Nous recommandons d'activer cette option si vous utilisateurs ne proviennent pas d'IP partag\u00e9es."
+        },
+        "55c8511d5d205cbddcbc743e49a39100": {
+            "text": "Nombre de secondes que l'utilisateur doit attendre apr\u00e8s une tentative \u00e9chou\u00e9e de connexion"
+        },
+        "0b9bd74be740fa049b1519ae3d14eff0": {
+            "text": "Ce nombre est multipli\u00e9 par le nombre de tentatives \u00e9chou\u00e9es, chaque tentative augmente dont le temps d'attende exponentiellement. Faites donc attention de ne pas le mettre trop haut."
+        },
+        "9e72aded18bb6821af87ef367e7e002e": {
+            "text": "Nombre maximum de secondes qu'un usager peut attendre avant une nouvelle tentative de connexion."
+        },
+        "00b826f39c964075351bbc489037d008": {
+            "text": "Puis que le temps d'attente augmente de fa\u00e7on exponentielle \u00e0 chaque tentative, ceci place un maximum (plafond) sur la dur\u00e9e d'attente. Vous devriez utiliser un nombre assez haut, pour des raisons de s\u00e9curit\u00e9. "
+        },
+        "ed6ad8c8924b2e836590cad9cc6c9328": {
+            "text": "60=1 minute, 300=5 minutes, 600=10 minutes, 3600=1 heure, 86400=1 jour"
+        }
+    }
+}

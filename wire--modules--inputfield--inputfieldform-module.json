@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldForm.module",
+    "textdomain": "wire--modules--inputfield--inputfieldform-module",
+    "translations": {
+        "d1e114b786b9fa971fbba24b8e584a43": {
+            "text": "Contient un ou plusieurs champs d'un formulaire"
+        }
+    }
+}

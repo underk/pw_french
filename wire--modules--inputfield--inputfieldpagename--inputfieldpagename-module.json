@@ -1,1 +1,21 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module","textdomain":"wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module","translations":{"49ee3087348e8d44e1feda1917443987":{"text":"Nom"},"152cfcb2150e04c8533d86e9d7642b11":{"text":"Toute combinaison de lettres (a-z), chiffres (0-9), tirets et tirets bas (pas d'espace)."}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageName\/InputfieldPageName.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagename--inputfieldpagename-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nom"
+        },
+        "152cfcb2150e04c8533d86e9d7642b11": {
+            "text": "Toute combinaison de lettres (a-z), chiffres (0-9), tirets et tirets bas (pas d'espace)."
+        },
+        "f48a4577939e2ab65867848e6b439a81": {
+            "text": "Remplacements de caract\u00e8res"
+        },
+        "9d250aded0473671ec3f113407f9809c": {
+            "text": "Entrez les remplacement qui auront lieu lorsqu'un usager entre des caract\u00e8res dans un champs de nom de page. Entrez un remplacement par ligne au format cl\u00e9=valeur. C'est \u00e0 dire que, sur chaque ligne, vous entrez le ou les caract\u00e8res que vous voulez remplacer suivis par le signe \u00e9gal \"=\" et le ou les caract\u00e8res ascii avec lesquels vous voulez les remplacer."
+        },
+        "9bc6bf958fcb86296c17a2b2db2a00a6": {
+            "text": "La valeur de remplacement pour chacun doit \u00eatre un ou plusieurs de : a-z, 0-9, tiret, tiret bas ou point."
+        }
+    }
+}

@@ -1,1 +1,72 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module","textdomain":"wire--modules--inputfield--inputfieldimage--inputfieldimage-module","translations":{"7e4cc6c00140cefcecd178df1836fbba":{"text":"L'image a \u00e9t\u00e9 retaill\u00e9e afin de s'adapter aux dimensions maximales autoris\u00e9es"},"95dde9286ff11d93e5f5ce0c832b9f2c":{"text":"Afficher les miniatures dans l'\u00e9diteur de page?"},"183cf71ab1252b747070605a2aa370c2":{"text":"Les miniatures prennent moins d'espace et facilite le classement des images. Si non coch\u00e9, la taille originale de l'image sera affich\u00e9 dans l'\u00e9diteur de page."},"7f0785e56befa113ce8fca2316a12a2e":{"text":"Dimensions maximales de l'image"},"c58e466902d0ff945d0677114e41682b":{"text":"Hauteur maximale pour les images upload\u00e9es"},"ef375d406da59811c42dc0f5a245dca3":{"text":"Entrez optionnellement le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si sp\u00e9cifi\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."},"e69ccb31941d2fd7923c6b0c01957db3":{"text":"Largeur maximale pour les images upload\u00e9es"},"21a08974171e7c2affbea041f9311318":{"text":"Entrez la valeur en pixels ou laissez vide pour n'avoir aucun maximum."}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldImage\/InputfieldImage.module",
+    "textdomain": "wire--modules--inputfield--inputfieldimage--inputfieldimage-module",
+    "translations": {
+        "7e4cc6c00140cefcecd178df1836fbba": {
+            "text": "L'image a \u00e9t\u00e9 retaill\u00e9e afin de s'adapter aux dimensions maximales autoris\u00e9es"
+        },
+        "95dde9286ff11d93e5f5ce0c832b9f2c": {
+            "text": "Afficher les miniatures dans l'\u00e9diteur de page?"
+        },
+        "183cf71ab1252b747070605a2aa370c2": {
+            "text": "Les miniatures prennent moins d'espace et facilite le classement des images. Si non coch\u00e9, la taille originale de l'image sera affich\u00e9 dans l'\u00e9diteur de page."
+        },
+        "7f0785e56befa113ce8fca2316a12a2e": {
+            "text": "Dimensions maximales de l'image"
+        },
+        "c58e466902d0ff945d0677114e41682b": {
+            "text": "Hauteur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
+        },
+        "ef375d406da59811c42dc0f5a245dca3": {
+            "text": "Entrez optionnellement le maximum pour la largeur et\/ou hauteur des images upload\u00e9es. Si sp\u00e9cifi\u00e9, les images seront redimensionn\u00e9es lors du t\u00e9l\u00e9versement s'ils exc\u00e8dent la largeur\/hauteur maximale. Le redimensionnement se fait lors du t\u00e9l\u00e9versement, et donc n'affecte aucune image dans le syst\u00e8me ou les images ajout\u00e9s via l'API."
+        },
+        "e69ccb31941d2fd7923c6b0c01957db3": {
+            "text": "Largeur maximale pour les images t\u00e9l\u00e9vers\u00e9es"
+        },
+        "126b21ce46c39d12c24058791a236777": {
+            "text": "Image invalide"
+        },
+        "41cfe40655c4b51507eff9d22bd777f2": {
+            "text": "Image de %s ne rencontre pas les dimensions minimales requises"
+        },
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "Supprimer"
+        },
+        "ad2ac1967f0165ebf04a84bc1819e0de": {
+            "text": "D\u00e9placer vers le bas"
+        },
+        "727b701bcc5f26422461f10c07a58d48": {
+            "text": "D\u00e9placer vers le haut"
+        },
+        "597c4d1113db01e43b62cd8a7112cf88": {
+            "text": "Vue par d\u00e9faut"
+        },
+        "530f488f7a9800411efc6926ab189708": {
+            "text": "Lignes"
+        },
+        "5174d1309f275ba6f275db3af9eb3e18": {
+            "text": "Grille"
+        },
+        "b3da2ccb426643b265971f8085617aa0": {
+            "text": "L'affichage en grille et en lignes peut \u00eatre chang\u00e9e par l'utilisateur en cliquant sur l'ic\u00f4ne apparaissant dans le champs. Ceci ne d\u00e9finit que celui utilis\u00e9 par d\u00e9faut. L'affichage en lignes est recommand\u00e9 comme d\u00e9fautt."
+        },
+        "1a2b9bdaad8fc3ebd6b83463a0def69e": {
+            "text": "Entrez la valeur en nombre de pixels ou laissez vide pour le pas imposer de limite."
+        },
+        "6760d392e57247a882e160cdb8b3680c": {
+            "text": "Dimensions minimales de l'image"
+        },
+        "a195023920e6ece61b6211755c9af27f": {
+            "text": "Optionnellement, entrez une largeur et\/ou une hauteur minimale(s) pour les images t\u00e9l\u00e9vers\u00e9es. Lorsque sp\u00e9cifi\u00e9e(s), les images qui ne rencontrent pas ces seuils minimums seront refus\u00e9es."
+        },
+        "d704e5da0e9e4ca2aa3e04201575f44c": {
+            "text": "Largeur minimum pour les images t\u00e9l\u00e9vers\u00e9es"
+        },
+        "b477617de997199bdd26761085aea486": {
+            "text": "Hauteur minimum pour les images t\u00e9l\u00e9vers\u00e9es"
+        },
+        "8a29508fcba587b8af0cfb36c544ee0d": {
+            "text": "T\u00e9l\u00e9versement d'une ou plusieurs images (triable)"
+        }
+    }
+}

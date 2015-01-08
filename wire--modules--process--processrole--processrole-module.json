@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/Process\/ProcessRole\/ProcessRole.module",
+    "textdomain": "wire--modules--process--processrole--processrole-module",
+    "translations": {
+        "abf1be1c76c0620d1a220871b1ba0da1": {
+            "text": "Les permissions indiqu\u00e9es ouvrent d'autres options de permission qui seront r\u00e9v\u00e9l\u00e9es apr\u00e8s avoir coch\u00e9 la case et enregistr\u00e9 la page."
+        },
+        "55713ee9cd76b3704908899aaa30b5e5": {
+            "text": "*Notez que cocher la permission page-edit ici signifie seulement que le r\u00f4le peut \u00eatre s\u00e9lectionn\u00e9 pour l'acc\u00e8s en modification au niveau du mod\u00e8le. Simplement assigner la permission page-edit ici ne donne pas un acc\u00e8s en permission avant qu'elle soit ne aussi s\u00e9lectionn\u00e9e dans un ou plusieurs configurations de mod\u00e8les."
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(requis)"
+        },
+        "e5e77ccf470959bc6be60127730908b5": {
+            "text": "G\u00e9rer les r\u00f4les des utilisateurs et les permissions qui y sont reli\u00e9es"
+        },
+        "2ac1fce951ddece70a50dfb03bd386b2": {
+            "text": "nom|titre"
+        }
+    }
+}
