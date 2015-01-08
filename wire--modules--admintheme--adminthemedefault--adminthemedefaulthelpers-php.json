@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "Voie le site"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "D\u00e9connexion"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ajouter nouveau"
+        }
+    }
+}

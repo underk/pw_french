@@ -1,0 +1,30 @@
+{
+    "file": "wire\/modules\/LanguageSupport\/LanguageSupportPageNames.module",
+    "textdomain": "wire--modules--languagesupport--languagesupportpagenames-module",
+    "translations": {
+        "ae739a236065a45c64ad51aacb19498c": {
+            "text": "Active ?"
+        },
+        "35b837a5674ea74e192fc0fa8b68f46c": {
+            "text": "Pr\u00e9fixe des num\u00e9ros de page pour la pagination"
+        },
+        "6119a76d8e8915737cda0e4151922c06": {
+            "text": "Le num\u00e9ro de page est pr\u00e9fix\u00e9 de ce mot dans les URLs pagin\u00e9es pour cette langue. Si laiss\u00e9 vide, \u00ab %s \u00bb sera utilis\u00e9."
+        },
+        "5b5fec43bb1313c56d2e944d9567cd96": {
+            "text": "L'URL de la page d'accueil de la langue par d\u00e9faut est la m\u00eame que l'URL racine ?"
+        },
+        "6fbae724946d15c837d8d88af35ed18c": {
+            "text": "Choisissez **Oui** si vous d\u00e9sirez que la page d'accueil de votre langue par d\u00e9faut soit servie par l'URL racine **\/** (recommand\u00e9). Choisissez **Non** si vous d\u00e9sirez que votre URL racine soit redirig\u00e9e vers **\/nom\/** (o\u00f9 \/nom\/ est le nom de la langue par d\u00e9faut de votre page d'accueil)."
+        },
+        "fccde8e7592dffb93fe985bc462771c0": {
+            "text": "Ce param\u00e8tre affecte seulement le comportement de la page d'accueil. Si vous s\u00e9lectionnez Non, you devez aussi vous assurer que votre page d'accueil a un nom d\u00e9fini pour la langue par d\u00e9faut."
+        },
+        "ff88cd079dc8d2fb836b8807f5d266a4": {
+            "text": "Oui - L'URL racine sert la page d'accueil de la langue par d\u00e9faut (recommand\u00e9)"
+        },
+        "f1bd84fbcee1b287fe538f7df1cbd700": {
+            "text": "Non - L'URL racine est redirig\u00e9e vers : \/nom\/"
+        }
+    }
+}

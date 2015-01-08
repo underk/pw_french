@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldFloat.module",
+    "textdomain": "wire--modules--inputfield--inputfieldfloat-module",
+    "translations": {
+        "7de752758d9c197324e94fd4a993f9d2": {
+            "text": "Nombre \u00e0 d\u00e9cimale fixe"
+        }
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "file": "wire\/core\/WireUpload.php",
+    "textdomain": "wire--core--wireupload-php",
+    "translations": {
+        "c4d20a850d6031b61534f75058ae320d": {
+            "text": "Succ\u00e8s du t\u00e9l\u00e9versement"
+        },
+        "827ac42f1bc60fab16ae517ddb410e31": {
+            "text": "Le fichier t\u00e9l\u00e9vers\u00e9 exc\u00e8de la directive upload_max_filesize dans php.ini."
+        },
+        "8d9086cb60c50b568ba57e0951dc4025": {
+            "text": "Le fichier t\u00e9l\u00e9vers\u00e9 exc\u00e8de la directive MAX_FILE_SIZE sp\u00e9cifi\u00e9e dans le formulaire HTML."
+        },
+        "4f12b222c9659d62afa795987259933f": {
+            "text": "Le fichier t\u00e9l\u00e9vers\u00e9 n'a \u00e9t\u00e9 que partiellement t\u00e9l\u00e9vers\u00e9."
+        },
+        "8c9067e52e4440d8a20e74fdc745b0c6": {
+            "text": "Aucun fichier n'a \u00e9t\u00e9 t\u00e9l\u00e9vers\u00e9."
+        },
+        "7623dae1dc1a0906e7062e209e36cbdb": {
+            "text": "Il manque un dossier temporaire."
+        },
+        "93252348cf3a42ca5e38b70d5f866d33": {
+            "text": "\u00c9chec d'\u00e9criture du fichier sur le disque"
+        },
+        "361e040fc0355a657b76e6727118e6e9": {
+            "text": "Le t\u00e9l\u00e9versement a \u00e9t\u00e9 arr\u00eat\u00e9 d\u00fb \u00e0 type d'extension"
+        },
+        "b896cdc3267a288d8a0082126a91cb06": {
+            "text": "Limite maximale d'envoi de fichier atteinte"
+        },
+        "3317b878f497a7508ea5c2a02cdf8000": {
+            "text": "Extension de fichier invalide, veuillez utiliser une de celles-ci :"
+        },
+        "1cd97c3760708f05e24ee5eb7e6034ce": {
+            "text": "Exc\u00e8de la taille de fichier maximale permise"
+        },
+        "acb6c0f25cc888a8d4e3cdc1dc2c247b": {
+            "text": "Aucun fichier trouv\u00e9 dans cette archive ZIP"
+        }
+    }
+}

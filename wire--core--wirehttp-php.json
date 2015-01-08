@@ -1,0 +1,15 @@
+{
+    "file": "wire\/core\/WireHttp.php",
+    "textdomain": "wire--core--wirehttp-php",
+    "translations": {
+        "77c7f3f51ebd4fa702990b4e33b1b168": {
+            "text": "Les URLs de t\u00e9l\u00e9chargement doivent d\u00e9buter par http:\/\/ ou https:\/\/"
+        },
+        "467af8bc03dee4f2214f406ef27a2cd2": {
+            "text": "Erreur fopen pour le nom de fichier :"
+        },
+        "0209b06558d47ad36cee247c670ff405": {
+            "text": "Le fichier n'a pas pu \u00eatre t\u00e9l\u00e9charg\u00e9"
+        }
+    }
+}

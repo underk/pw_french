@@ -1,1 +1,18 @@
-{"file":"wire\/core\/Fieldtype.php","textdomain":"wire--core--fieldtype-php","translations":{"a528ac2d2f326703f458dec14cba03e5":{"text":"Auto-attachement"},"2af316156c9ea64d6d56bfe221486efd":{"text":"Si coch\u00e9e, les donn\u00e9es de ce champ seront charg\u00e9es avec chaque instance de la page, peu importe s'il est utilis\u00e9 ou non \u00e0 ce moment. Si d\u00e9coch\u00e9e, les donn\u00e9es vont \u00eatre charg\u00e9es sur demande et seulement quand le champ sera sp\u00e9cifiquement acc\u00e9d\u00e9."},"ad1bc8634063998074151ecfaaf2e6a1":{"text":"Si coch\u00e9e, TOUTES les pages auront ce champ. Il sera automatiquement ajout\u00e9 aux groupes de champs\/gabarits qui ne l'ont pas d\u00e9j\u00e0. Ceci ne veut pas dire que ce champ est requis, mais seulement qu'il existera dans toutes les pages."}}}
+{
+    "file": "wire\/core\/Fieldtype.php",
+    "textdomain": "wire--core--fieldtype-php",
+    "translations": {
+        "a528ac2d2f326703f458dec14cba03e5": {
+            "text": "Auto-attachement"
+        },
+        "2af316156c9ea64d6d56bfe221486efd": {
+            "text": "Si coch\u00e9e, les donn\u00e9es de ce champ seront charg\u00e9es avec chaque instance de la page, peu importe s'il est utilis\u00e9 ou non \u00e0 ce moment. Si d\u00e9coch\u00e9e, les donn\u00e9es vont \u00eatre charg\u00e9es sur demande et seulement quand le champ sera sp\u00e9cifiquement acc\u00e9d\u00e9."
+        },
+        "ad1bc8634063998074151ecfaaf2e6a1": {
+            "text": "Si coch\u00e9e, TOUTES les pages auront ce champ. Il sera automatiquement ajout\u00e9 aux groupes de champs\/gabarits qui ne l'ont pas d\u00e9j\u00e0. Ceci ne veut pas dire que ce champ est requis, mais seulement qu'il existera dans toutes les pages."
+        },
+        "4cc6684df7b4a92b1dec6fce3264fac8": {
+            "text": "Global"
+        }
+    }
+}

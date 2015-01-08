@@ -1,0 +1,21 @@
+{
+    "file": "wire\/modules\/System\/SystemUpdater\/SystemUpdater.module",
+    "textdomain": "wire--modules--system--systemupdater--systemupdater-module",
+    "translations": {
+        "131f946cc232ed294bb1051fdb295d02": {
+            "text": "Outil de mise \u00e0 jour syst\u00e8me"
+        },
+        "68b7f791d338e65dd897b4316c51a568": {
+            "text": "G\u00e8re les versions du syst\u00e8me et les mises \u00e0 jour."
+        },
+        "2bb01c9e5f493e464bae4f127ac24891": {
+            "text": "Journal de mises \u00e0 jour"
+        },
+        "83d345108e3c4ebe46ec3d2de0b7e463": {
+            "text": "Version du syst\u00e8me"
+        },
+        "e3087085dad248ad622f15449dc45832": {
+            "text": "Ceci vous permet de r\u00e9-appliquer une mise \u00e0 jour du syst\u00e8me en r\u00e9duisant le num\u00e9ro de version."
+        }
+    }
+}

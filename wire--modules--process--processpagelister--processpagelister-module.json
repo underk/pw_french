@@ -1,0 +1,96 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageLister\/ProcessPageLister.module",
+    "textdomain": "wire--modules--process--processpagelister--processpagelister-module",
+    "translations": {
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "Nom"
+        },
+        "0eceeb45861f9585dd7a97a3e36f85c6": {
+            "text": "Cr\u00e9\u00e9e"
+        },
+        "35e0c8c0b180c95d4e122e55ed62cc64": {
+            "text": "Modifi\u00e9e"
+        },
+        "a5e3d3ad4b54f37c48d9391d5ab35eed": {
+            "text": "Mod. par"
+        },
+        "7b1255f8fdd0cb8751baee55621164e1": {
+            "text": "Cr\u00e9\u00e9e par"
+        },
+        "278c491bdd8a53618c149c4ac790da34": {
+            "text": "Mod\u00e8le"
+        },
+        "379a82f72eacfec4228f74d4e39f3eec": {
+            "text": "Nb. enfants"
+        },
+        "7acdf85c69cc3c5305456a293524386e": {
+            "text": "Cach\u00e9"
+        },
+        "0774e163cd7df482edd2abd498189f8b": {
+            "text": "Non publi\u00e9"
+        },
+        "d0f2e5376298c880665077b565ffd7dd": {
+            "text": "Barr\u00e9"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Corbeille"
+        },
+        "57c17efa48d527f45393fdbf800500a0": {
+            "text": "Marqueur non reconnu ou plus actif"
+        },
+        "f3f43e30c8c7d78c6ac0173515e57a00": {
+            "text": "Filtres"
+        },
+        "860515850b6c6beae4343c42ecf3060f": {
+            "text": "Ajouter un filtre"
+        },
+        "d050438ea9af830fff49ddbbad2218b0": {
+            "text": "Colonnes par d\u00e9faut"
+        },
+        "6d0999f49ddabda93eae8276595abe62": {
+            "text": "S\u00e9lectionner et trier les colonnes qui apparaitront dans le tableau de la liste de pages."
+        },
+        "97bff91e1e9c0a1d8a8cc9a0c1ae88fc": {
+            "text": "L'utilisateur peut optionnellement changer les colonnes affich\u00e9es, ces valeurs serviront donc simplement de d\u00e9fauts."
+        },
+        "0e305a04b5eb6dc8bf502625710a74d3": {
+            "text": "Les changements que vous effectuez ici devraient \u00eatre refl\u00e9t\u00e9s imm\u00e9diatement dans les r\u00e9sultats ci-bas."
+        },
+        "60170ad1f8db03dc180ee0ced484b19f": {
+            "text": "Colonnes \u00e0 afficher dans les r\u00e9sultats"
+        },
+        "0c8ee3eeadc96eeeeb24e2a6dc9d4a5e": {
+            "text": "Pages \u00e0 afficher"
+        },
+        "e4ef81cce7e4e10033ebb10962dfdd5e": {
+            "text": "Vide"
+        },
+        "de95b43bceeb4b998aed4aed5cef1ae7": {
+            "text": "modifier"
+        },
+        "1bda80f2be4d3658e0baa43fbe7ae8c1": {
+            "text": "voir"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nouveau"
+        },
+        "a5158728109d8e67ae31b7b02bdc8b86": {
+            "text": "%1$d \u00e0 %2$d de %3$d"
+        },
+        "3b8769d187c6c3306c50729bc43a9903": {
+            "text": "Aucun r\u00e9sultat."
+        },
+        "ef7de3f485174ff47f061ad27d83d0ee": {
+            "text": "s\u00e9lectionn\u00e9"
+        },
+        "7b0fb34fcab89b5e58429e5e917b98bb": {
+            "text": "Tous les param\u00e8tres ont \u00e9t\u00e9 r\u00e9initialis\u00e9s"
+        },
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "Ajouter nouveau"
+        },
+        "590345301b23eb45c176da0fc139b191": {
+            "text": "Colonnes"
+        }
+    }
+}

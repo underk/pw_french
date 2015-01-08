@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/Process\/ProcessList.module","textdomain":"wire--modules--process--processlist-module","translations":[]}
+{
+    "file": "wire\/modules\/Process\/ProcessList.module",
+    "textdomain": "wire--modules--process--processlist-module",
+    "translations": {
+        "5b4883d0e89e3d445d1cd1ccad668cf1": {
+            "text": "Le module de processus assign\u00e9 \u00e0 cette page ne semble pas \u00eatre install\u00e9."
+        },
+        "9040adb9c035d31a6f59c34259371121": {
+            "text": "Aucune description disponible"
+        },
+        "11edaf952ae49a89083e2f6ed973c774": {
+            "text": "Listes les processus (Process) assign\u00e9s \u00e0 chaque page enfant de la page courante"
+        }
+    }
+}

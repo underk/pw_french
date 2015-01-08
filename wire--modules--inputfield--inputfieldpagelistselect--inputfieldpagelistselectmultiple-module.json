@@ -1,1 +1,27 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module","textdomain":"wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module","translations":{"417c313c31381894998d5fa72eac82c8":{"text":"Incapable d'afficher de champ d\u00fb \u00e0 la page parent manquante dans la configuration du champ."},"ec211f7c20af43e742bf2570c3cb84f9":{"text":"Ajouter"}}}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldPageListSelect\/InputfieldPageListSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldpagelistselect--inputfieldpagelistselectmultiple-module",
+    "translations": {
+        "417c313c31381894998d5fa72eac82c8": {
+            "text": "Incapable d'afficher de champ d\u00fb \u00e0 la page parent manquante dans la configuration du champ."
+        },
+        "ec211f7c20af43e742bf2570c3cb84f9": {
+            "text": "Ajouter"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Annuler"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "S\u00e9lectionner"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Annuler la s\u00e9lection"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Plus"
+        },
+        "3677aac44cf40763444008a08a7e33aa": {
+            "text": "S\u00e9lection de pages multiples de l'arborescence de pages de ProcessWire"
+        }
+    }
+}

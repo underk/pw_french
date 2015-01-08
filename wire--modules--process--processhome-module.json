@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Process\/ProcessHome.module",
+    "textdomain": "wire--modules--process--processhome-module",
+    "translations": {
+        "3555f18b32d499274ee3fcfb73c15558": {
+            "text": "Agit en tant que Process fictif pour la racine de l'interface d'administration. Assure le contr\u00f4le du flot apr\u00e8s la connexion."
+        }
+    }
+}

@@ -1,1 +1,24 @@
-{"file":"wire\/modules\/Fieldtype\/FieldtypeTextarea.module","textdomain":"wire--modules--fieldtype--fieldtypetextarea-module","translations":[]}
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeTextarea.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypetextarea-module",
+    "translations": {
+        "00f6c76a7a83b1d7aab61a93e513e9d5": {
+            "text": "Type de champs d'entr\u00e9e"
+        },
+        "127852afa67b41673ab8ea17b383847c": {
+            "text": "Le type de champs \u00e0 utiliser pour enregistrer les entr\u00e9es (Textarea par d\u00e9faut). Notez que si vous modifiez celui-ci et enregistrez, la configuration actuelle des options dans l'onglet \"Entr\u00e9e\" pourrait changer."
+        },
+        "2effa58f13159d138a634233e246713d": {
+            "text": "Type de contenu"
+        },
+        "88183b946cc5f0e8c96b2e66e1c74a7e": {
+            "text": "Inconnu"
+        },
+        "5d85f44b69f9d7e86c7f3f473f97f771": {
+            "text": "Balis\u00e9\/HTML"
+        },
+        "1991cfd60d0287cfb130420da34fcbef": {
+            "text": "L'option Balis\u00e9\/HTML est recommand\u00e9e pour les champs utilisant des \u00e9diteurs de texte enrichi (CKEditor, TinyMCE, etc.) et ceux contenant du HTML. Elle procure un filtrage additionnel au moment de l'op\u00e9ration du code pour des fins d'assurance qualit\u00e9."
+        }
+    }
+}

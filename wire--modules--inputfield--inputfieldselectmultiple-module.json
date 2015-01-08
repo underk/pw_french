@@ -1,0 +1,12 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldSelectMultiple.module",
+    "textdomain": "wire--modules--inputfield--inputfieldselectmultiple-module",
+    "translations": {
+        "019fce53dcc7e7f5a3abea240de44d77": {
+            "text": "Taille : nombre de lignes visibles \u00e0 tout moment pour la s\u00e9lection multiple"
+        },
+        "6faad70d6719b405a08c5121e31e258b": {
+            "text": "S\u00e9lectionne des \u00e9l\u00e9ments multiples d'une liste"
+        }
+    }
+}

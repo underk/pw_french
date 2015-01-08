@@ -1,1 +1,72 @@
-{"file":"wire\/core\/Inputfield.php","textdomain":"wire--core--inputfield-php","translations":[]}
+{
+    "file": "wire\/core\/Inputfield.php",
+    "textdomain": "wire--core--inputfield-php",
+    "translations": {
+        "efdf8051d64766330e13627274b01787": {
+            "text": "Les conditions exprim\u00e9es avec un s\u00e9lecteur \u00ab champs=valeur \u00bb contiennent des champs et des valeurs \u00e0 faire correspondre. Les conditions multiples doivent \u00eatres s\u00e9par\u00e9es par une virgule."
+        },
+        "2d7ff3fa8a1a844b270d96878d358762": {
+            "text": "En savoir plus sur [comment utiliser ceci](http:\/\/processwire.com\/api\/selectors\/inputfield-dependencies\/)."
+        },
+        "1729a56cfc89021478498fe0c89a843a": {
+            "text": "Visibilit\u00e9"
+        },
+        "c7bc3fddddb62d5b656adc30cea77a55": {
+            "text": "Pr\u00e9sentation"
+        },
+        "49632d1c8309d42371ab31fe84d56c91": {
+            "text": "Comment ce champs devrait-il \u00eatre affich\u00e9 dans l'\u00e9diteur ?"
+        },
+        "604b97c67341baddd9547c714add721c": {
+            "text": "Toujours ouvert (par d\u00e9faut)"
+        },
+        "c412235f3700a685388546e557292a7e": {
+            "text": "Toujours ouvert et ne peut \u00eatre r\u00e9duit"
+        },
+        "d7a1a486818eebace651ff191e42984f": {
+            "text": "R\u00e9duit seulement lorsque vide"
+        },
+        "996d9abb10eeff734a994fcd5b449db6": {
+            "text": "R\u00e9duit seulement lorsqu'il contient des donn\u00e9es"
+        },
+        "c0b4e286b96d6d694cb7ecb152fe3e9d": {
+            "text": "Toujours r\u00e9duit, n\u00e9cessitant un clic pour l'ouvrir"
+        },
+        "8263d549648f539508587a67f38d008b": {
+            "text": "Cach\u00e9, non affich\u00e9 dans l'\u00e9diteur"
+        },
+        "3c5df14c7c43b1d43c41b15476154474": {
+            "text": "Toujours r\u00e9duit et non \u00e9ditable (verrouill\u00e9)"
+        },
+        "5b6a6f08f86510a9580df3bb8b31bb2a": {
+            "text": "Ouvert seulement lorsqu'il contient des donn\u00e9es et non \u00e9ditable (verrouill\u00e9)"
+        },
+        "3cfa4a6238e2b559d3f52474e7545485": {
+            "text": "Afficher ce champs seulement si\u2026"
+        },
+        "3b57940d51a0ed7f2d5c49363114bd0e": {
+            "text": "Entrez les conditions \u00e0 rencontrer pour que le champs soit affich\u00e9."
+        },
+        "a785c32894aad6d7c1dc826a4bc0a4a3": {
+            "text": "Largeur de colonne (%d%%)"
+        },
+        "0eb0b305235144ffe99e247b24200b09": {
+            "text": "La largeur de ce conteneur de champs exprim\u00e9e en pourcentage (10%-100%). Lorsqu'adjacent \u00e0 d'autres champs de largeurs r\u00e9duites, cela cr\u00e9era des colonnes flottantes."
+        },
+        "8387772e28e9c2b81fa8cb674e569663": {
+            "text": "Notes que certains champs le fonctionnent pas \u00e0 des largeurs r\u00e9duites, il est donc recommand\u00e9 de v\u00e9rifier le r\u00e9sultat apr\u00e8s avoir effectu\u00e9 des changements."
+        },
+        "6e18e908568ef24580d93bfd3e0f40d7": {
+            "text": "Requis?"
+        },
+        "c48c7243fc307fd425df738c9f0f4324": {
+            "text": "Si coch\u00e9, une valeur sera requise pour ce champs."
+        },
+        "8183d67b5c53c5fb254741c64ae6f98d": {
+            "text": "Requis seulement si\u2026"
+        },
+        "bb0df4a2d5e0d99eaba53f152ff7f0f7": {
+            "text": "Entres les conditions \u00e0 rencontrer pour qu'une valeur soit requise pour ce champs."
+        }
+    }
+}
