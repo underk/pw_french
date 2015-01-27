@@ -1,1 +1,45 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldInteger.module","textdomain":"wire--modules--inputfield--inputfieldinteger-module","translations":[]}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldInteger.module",
+    "textdomain": "wire--modules--inputfield--inputfieldinteger-module",
+    "translations": {
+        "342fcaf76020389954d449ceec0a8a80": {
+            "text": "Min : %d"
+        },
+        "96f5f93890f61d6ff4c07e2883833d72": {
+            "text": "Mac : %d"
+        },
+        "100b8cad7cf2a56f6df78f171f97a1ec": {
+            "text": "n'importe"
+        },
+        "004d36e4fa95eec8357b066aa20e9d8d": {
+            "text": "Valeur %3$s sp\u00e9cifi\u00e9e enlev\u00e9e puisqu'elle est hors limites (min=%1$s, max=%2$s)"
+        },
+        "ddf1608e4f7def4fd584f806267255d4": {
+            "text": "Type d'entr\u00e9e num\u00e9rique"
+        },
+        "9dffbf69ffba8bc38bc4e01abf4b1675": {
+            "text": "Texte"
+        },
+        "edb082a8145b0705db7f2b843ed57471": {
+            "text": "Nombre (HTML5)"
+        },
+        "339f8a8a3ec4255e3982690df6c764fc": {
+            "text": "Choisir le type \u00ab Nombre \u00bb active la validation c\u00f4t\u00e9 client dans les navigateurs qui la supporte."
+        },
+        "702a538a7348a9e52b08913558867f70": {
+            "text": "Valeur minimum"
+        },
+        "e9aac774de6f4b2d481938ff2403e5a8": {
+            "text": "La valeur minimum permise pour ce champs. Laissez vide pour ignorer."
+        },
+        "48b0ece3cdd23c3605c8d7ee617c43ca": {
+            "text": "Valeur maximum"
+        },
+        "41f052267baa5d7342df9bad1b957733": {
+            "text": "La valeur maximum permise pour ce champs. Laissez vide pour ignorer."
+        },
+        "15b920388c8c88882ae50ac7e68a52ad": {
+            "text": "Entier (positif ou n\u00e9gatif)"
+        }
+    }
+}

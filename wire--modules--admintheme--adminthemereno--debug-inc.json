@@ -1,0 +1,48 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/debug.inc",
+    "textdomain": "wire--modules--admintheme--adminthemereno--debug-inc",
+    "translations": {
+        "7421d68c70dfc346497573bf4e08acc5": {
+            "text": "Outils du mode D\u00e9boggage"
+        },
+        "b9a880607682d7ff74c39ef4cdefca90": {
+            "text": "Pages charg\u00e9es"
+        },
+        "dc62e13d18c4cec89567255a0bbd8a67": {
+            "text": "Variables d'API"
+        },
+        "71c7ae294b7abd866b3fb295b3b9e4a4": {
+            "text": "Session"
+        },
+        "f929d2763e272dc4669d972bae9708e0": {
+            "text": "Modules charg\u00e9s"
+        },
+        "554c5efaf6a3411ec0c56132825ce0f1": {
+            "text": "%d modules charg\u00e9s"
+        },
+        "5e9171024adf23f0e7e7f298f251a935": {
+            "text": "%d non charg\u00e9s"
+        },
+        "62483fbc1d13ed84612061e24f6e72fb": {
+            "text": "Requ\u00eates PDO ($database)"
+        },
+        "92dd35cc61ffc41d02defdcef071856d": {
+            "text": "Chronom\u00e8tres"
+        },
+        "951102c6edd76f552294869d42635888": {
+            "text": "Requ\u00eates MySQLi ($db) - Obsol\u00e8tes"
+        },
+        "8f9bfe9d1345237cb3b2b205864da075": {
+            "text": "Utilisateur"
+        },
+        "5351e7d8b45acb7070fc165ce3b738c6": {
+            "text": "R\u00f4les de l'utilisateur"
+        },
+        "1b272e451c327dcb796367163a2c403b": {
+            "text": "Permissions de l'utilisateur"
+        },
+        "e386ede4750a227397715b73b7727273": {
+            "text": "Permissions de l'utilisateur pour cette page"
+        }
+    }
+}

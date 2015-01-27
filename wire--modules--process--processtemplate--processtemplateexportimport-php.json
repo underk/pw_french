@@ -1,0 +1,156 @@
+{
+    "file": "wire\/modules\/Process\/ProcessTemplate\/ProcessTemplateExportImport.php",
+    "textdomain": "wire--modules--process--processtemplate--processtemplateexportimport-php",
+    "translations": {
+        "adb6c5041788e54ab20e2a3ef58fbe6e": {
+            "text": "S\u00e9lectionnez les mod\u00e8les que vous souhaitez exporter"
+        },
+        "ad32e604e17467fc435538334fbddf3e": {
+            "text": "NOM"
+        },
+        "6f434c508ad901b8667ed22f713e52bb": {
+            "text": "\u00c9TIQUETTE"
+        },
+        "60f5cde0d3f7fde81ba481a6a2ea2c49": {
+            "text": "CHAMPS"
+        },
+        "40e3819215b52841e19a7cac06b5f065": {
+            "text": "MODIFI\u00c9"
+        },
+        "e5d07991c975607a12edce23c0da9824": {
+            "text": "Shift+Clic pour s\u00e9lectionner plusieurs en s\u00e9quence. Ctrl+Clic (ou Cmd+clic) pour s\u00e9lectionner plusieurs individuellement. Ctrl+A (ou Cmd+A) pour tout s\u00e9lectionner."
+        },
+        "2f1fb3d9f25082e7fdb0befdad16da5f": {
+            "text": "Exporter les donn\u00e9es"
+        },
+        "6af8cf07d769a110f0b2483692ef424c": {
+            "text": "Copiez et collez ces donn\u00e9es dans la boite \"Importer\" d'une autre installation."
+        },
+        "9d823cda278191490c2a99bbb912cc9d": {
+            "text": "Cliquez n'importe o\u00f9 dans le champs pour s\u00e9lectionner toutes les donn\u00e9es d'exportation. Une fois s\u00e9lectionn\u00e9es, copiez les donn\u00e9es avec Ctrl+C ou Cmd+C"
+        },
+        "dce8c8fe6bdf804f2a98384dedea1360": {
+            "text": "Coller les donn\u00e9es d'une exportation."
+        },
+        "139ef19d3b2f902827257b2ebc33d708": {
+            "text": "Collez les donn\u00e9es d'exportation d'une autre installation, puis collez dans le champs ci-dessus avec Ctrl-V ou Cmd+V"
+        },
+        "31fde7b05ac8952dacf4af8a704074ec": {
+            "text": "Pr\u00e9visualisation"
+        },
+        "22af645d1859cb5ca6da0c484f1f37ea": {
+            "text": "nouveau"
+        },
+        "c112bb3542e98308d12d5ecb10a67abc": {
+            "text": "Changements"
+        },
+        "5ad234cb2cde4266195252a23ca7d84e": {
+            "text": "Propri\u00e9t\u00e9"
+        },
+        "56f05ff480907494bd933f4ad4faf9e2": {
+            "text": "Ancienne valeur"
+        },
+        "943f335b83ec6549ef45388ececff4e1": {
+            "text": "Nouvelle valeur"
+        },
+        "34eb90456e45e06048e287f649c4fba0": {
+            "text": "Aucun changements \u00e0 effectuer."
+        },
+        "10683c4dcfaf72824f906297f56bf7a5": {
+            "text": "Modifier me mod\u00e8le ?"
+        },
+        "8ed3116cc653ca014c306d4750f6fdb4": {
+            "text": "Cr\u00e9er ce mod\u00e8le ?"
+        },
+        "83e14aace19687fe9e1fbb8f913bf569": {
+            "text": "cliquez oui pour afficher les changements"
+        },
+        "47a35a358887cc2c9994fb517d6a2b0b": {
+            "text": "Parfois, deux application des changements peuvent \u00eatre n\u00e9cessaire pour qu'ils soient tous effectu\u00e9s. Veuillez v\u00e9rifier tout changement \u00e0 effectuer ci-bas et appliquez les au besoin."
+        },
+        "b2ba5835eaaa55607da59f696dcd4a87": {
+            "text": "Veuillez v\u00e9rifier les changements ci-bas et les appliqu\u00e9 lorsque vous \u00eatre pr\u00eat. Pour tout changement que vous ne d\u00e9sirez pas appliquer, d\u00e9cochez les cases au besoin."
+        },
+        "b604e6f64e19eea098f6d87c63552c53": {
+            "text": "Appliquer les changements"
+        },
+        "16babeb0401a3e00da9891b97e94d6fe": {
+            "text": "Vos changements ont \u00e9t\u00e9 appliqu\u00e9s !"
+        },
+        "15055fb4c054396bf293c21c12c578be": {
+            "text": "Aucun changement trouv\u00e9"
+        },
+        "426de2596501a3cff8977e60c271889c": {
+            "text": "Enregistr\u00e9 :"
+        },
+        "9e8f440807ceee9139987ab8fc6af288": {
+            "text": "Ajout\u00e9 :"
+        },
+        "c5537dee88da6f333d20bfd49cfe1ce4": {
+            "text": "Modifi\u00e9 :"
+        },
+        "19b7fb53a85de3c8ba85672a91a7398b": {
+            "text": "Exporter"
+        },
+        "722034114c47bfa859a1be8200469fcf": {
+            "text": "Ok"
+        },
+        "12c658575040446e9b2ffdfaaf7bc115": {
+            "text": "Importer"
+        },
+        "a7820bfdb5b31eb4ee4165f2c8bef779": {
+            "text": "Oui"
+        },
+        "1354eb301e2c7c55f79a7f13adb363e3": {
+            "text": "Non"
+        },
+        "1de056630a16e4be557e090c25f5791e": {
+            "text": "%d avertissement"
+        },
+        "f96edcbe75239be800209c48ae9beb65": {
+            "text": "%d avertissements"
+        },
+        "8ba486983cfbf272f154102c788863e6": {
+            "text": "%d propri\u00e9t\u00e9 trouv\u00e9e \u00e0 appliquer."
+        },
+        "dbda450b59595e4fd37fd581d205334f": {
+            "text": "%d propri\u00e9t\u00e9s trouv\u00e9es \u00e0 appliquer"
+        },
+        "55c3a7525ed259e874a6d8f5e7e1b951": {
+            "text": "Avertissements pour %d mod\u00e8le"
+        },
+        "c444fb69a513bb955e7fc6d2743259c0": {
+            "text": "Avertissements pour %d mod\u00e8les"
+        },
+        "941d6506a00bb692b6fef9cd4ae4b5e1": {
+            "text": "Trouv\u00e9 %d nouveau mod\u00e8le \u00e0 ajouter"
+        },
+        "5788268970dc1d50bc88a88494487e11": {
+            "text": "Trouv\u00e9 %d nouveaux mod\u00e8les \u00e0 ajouter"
+        },
+        "6c0ca3ff5408385efd5418b46d06cd85": {
+            "text": "Trouv\u00e9 %d mod\u00e8le existant \u00e0 mettre \u00e0 jour"
+        },
+        "b51b8d4de5d4fd2422af0fb2ad529875": {
+            "text": "Trouv\u00e9 %d mod\u00e8les existants \u00e0 mettre \u00e0 jour"
+        },
+        "9b64d9a70291ddd3f6c42edec1bb9866": {
+            "text": "%d \u00e9l\u00e9ment ajout\u00e9"
+        },
+        "0f1a6168f03f3ac45f46090fef3bf688": {
+            "text": "%d \u00e9l\u00e9ments ajout\u00e9s"
+        },
+        "1992f81aea256b7d907c455b395d5ea4": {
+            "text": "%d \u00e9l\u00e9ment modifi\u00e9"
+        },
+        "91cfce0d08404cef27087ea2d7c9043a": {
+            "text": "%d \u00e9l\u00e9ments modifi\u00e9s"
+        },
+        "c95e1b7b8cdab666cefec077890996f5": {
+            "text": "%d \u00e9l\u00e9ment ignor\u00e9"
+        },
+        "fc9475948584941277524f1216bb18ff": {
+            "text": "%d \u00e9l\u00e9ments ignor\u00e9s"
+        }
+    }
+}

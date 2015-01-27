@@ -1,1 +1,15 @@
-{"file":"wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module","textdomain":"wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module","translations":[]}
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "Colonne de cases \u00e0 cocher"
+        },
+        "50bad9e0658dd79a35545ebcd18f92ac": {
+            "text": "Si vous d\u00e9sirez que les cases \u00e0 cocher apparaissent en colonnes (plut\u00f4t qu'empil\u00e9es), entrez le nombre de colonnes que vous d\u00e9sirez (jusqu'\u00e0 10). Pour afficher les cases c\u00f4te \u00e0 c\u00f4te (inline), entrez 1."
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "Plusieurs cases \u00e0 cocher"
+        }
+    }
+}

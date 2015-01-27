@@ -1,0 +1,9 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPermission\/ProcessPermission.module",
+    "textdomain": "wire--modules--process--processpermission--processpermission-module",
+    "translations": {
+        "175111b089b0e62fbde2b5344f2a547f": {
+            "text": "G\u00e9rer les permissions du syst\u00e8me"
+        }
+    }
+}
