@@ -8,7 +8,7 @@ Merci d'utiliser l'outil [Issues de GitHub](https://github.com/underk/pw_french/
 
 ## Traducteurs
 
-[Pierre-Luc Auclair](https://github.com/plauclair)
-[UnderK](https://github.com/underk)
-Guillaume
-achabany
+- [Pierre-Luc Auclair](https://github.com/plauclair) - Responsable de la traduction actuelle
+- [UnderK](https://github.com/underk)
+- Guillaume
+- achabany
